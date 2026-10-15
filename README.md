@@ -8,5 +8,4 @@ The ball would often clip through the ground or take a second to actually start 
 
 Next time I would tweak the ball's acceleration and make the execution of rotating the maze more physics engine friendly.
 
-
 Itch Page: https://gavand13.itch.io/gavin-mcgarry-prototype-6
